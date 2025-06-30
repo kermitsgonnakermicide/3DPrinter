@@ -11,3 +11,8 @@ I want to _try_ and use a rail driven system, as its more rigid than a belt driv
 I defo want to leave budget for a BLTouch and a good quality printer enclosure<br>
 
 **Time Spent - 1h30**
+
+# Day 2 - Lock in(probably) June 30th
+
+I hope i can finish this printer within the next few days - so without further ado, we shall begin
+PT1(around 6 PM): Built the frame with 2020 aluminium extrusion for a total cage size of 410x260mm
