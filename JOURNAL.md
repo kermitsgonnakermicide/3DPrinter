@@ -14,5 +14,13 @@ I defo want to leave budget for a BLTouch and a good quality printer enclosure<b
 
 # Day 2 - Lock in(probably) June 30th
 
-I hope i can finish this printer within the next few days - so without further ado, we shall begin
-PT1(around 6 PM): Built the frame with 2020 aluminium extrusion for a total cage size of 410x260mm
+I hope i can finish this printer within the next few days - so without further ado, we shall begin<br>
+PT1(around 6 PM): Built the frame with 2020 aluminium extrusion for a total cage size of 410x260mm<br>
+
+# Day 3 - Did not lock in lmao(June 5th)
+
+Today, I remembered this project and started working on it again<br>
+Added the corner brackets to the big boi and also increased its height by 30mm<br>
+Most importantly, I pretty much finished my gantry<br>
+Nema 17, belt driven goodness on mgn12 linear rails, with some other cool stuff<br>
+However, I stole the toolhead from SimpleCore as a temporary placeholder kinda thing, I dont think I have the parts to build something like that and I dont think I can find those parts<br>
