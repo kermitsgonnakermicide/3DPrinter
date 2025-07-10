@@ -24,3 +24,11 @@ Added the corner brackets to the big boi and also increased its height by 30mm<b
 Most importantly, I pretty much finished my gantry<br>
 Nema 17, belt driven goodness on mgn12 linear rails, with some other cool stuff<br>
 However, I stole the toolhead from SimpleCore as a temporary placeholder kinda thing, I dont think I have the parts to build something like that and I dont think I can find those parts<br>
+**Time Spent: 6hr**
+
+# Day 4 - Z assembly (June 10th)
+
+Today, I worked on the Z assembly plus some other QOL stuff(feet)<br>
+![alt text](image.png)<br>
+
+**Time Spent: 2.5hr**
