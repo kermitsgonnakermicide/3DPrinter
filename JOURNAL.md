@@ -16,6 +16,7 @@ I defo want to leave budget for a BLTouch and a good quality printer enclosure<b
 
 I hope i can finish this printer within the next few days - so without further ado, we shall begin<br>
 PT1(around 6 PM): Built the frame with 2020 aluminium extrusion for a total cage size of 410x260mm<br>
+![alt text](image-1.png)<br>
 
 # Day 3 - Did not lock in lmao(June 5th)
 
@@ -24,11 +25,14 @@ Added the corner brackets to the big boi and also increased its height by 30mm<b
 Most importantly, I pretty much finished my gantry<br>
 Nema 17, belt driven goodness on mgn12 linear rails, with some other cool stuff<br>
 However, I stole the toolhead from SimpleCore as a temporary placeholder kinda thing, I dont think I have the parts to build something like that and I dont think I can find those parts<br>
+![alt text](image-2.png)
 **Time Spent: 6hr**
 
 # Day 4 - Z assembly (June 10th)
 
 Today, I worked on the Z assembly plus some other QOL stuff(feet)<br>
+I used two steppers for this, and I intend to use a [220mm bed](https://novo3d.in/3d-printer-heatbed-220x220mm/) <br>
+Again, this is similar to the gantry as it uses those linear rails with carriages and belts. I was thinking of using three steppers for this, but keeping in mind the size of this medium boi, dont think thats the greatest idea
 ![alt text](image.png)<br>
-
-**Time Spent: 2.5hr**
+![alt text](image-3.png)
+**Time Spent: 85hr**
