@@ -35,4 +35,5 @@ I used two steppers for this, and I intend to use a [220mm bed](https://novo3d.i
 Again, this is similar to the gantry as it uses those linear rails with carriages and belts. I was thinking of using three steppers for this, but keeping in mind the size of this medium boi, dont think thats the greatest idea
 ![alt text](image.png)<br>
 ![alt text](image-3.png)
-**Time Spent: 85hr**
+**Time Spent: 8.55hr**
+
