@@ -19,7 +19,6 @@ an epik corexy 3d printer!! super big and awesome
 - **Fully Enclosed Build Chamber:** Maintains thermal stability for high-temp materials.
 - **Linear Rail Motion:** MGN-series rails for minimal play and smooth travel.
 - **Direct Drive Extruder:** LDO Orbiter for lightweight, high-precision filament feeding.
-- **BLTouch Auto-Bed-Leveling:** Consistent first layers with minimal manual adjustment.
 - **Compact Medium Build Volume:** 220 × 220 mm bed with an optimized footprint.
 
 ---
@@ -40,7 +39,9 @@ For the hotend, the bambu hotend was just really cheap and high quality(had bad 
 
 Aluminium profiles were honestly a no brainer, and the size was to fit my linear rail sizes
 
-###
+### Motherboard
+
+SKR 3 mobo for this printer(cheap + high quality + tmc2209 compatible)
 
 ---
 
@@ -48,25 +49,27 @@ Aluminium profiles were honestly a no brainer, and the size was to fit my linear
 
 ### Frame Assembly
 
-![Frame Build](frameimage.png)
+![Frame Build](ASSETS/frameimage.png)
 
 ### Gantry Assembly
 
-![Gantry Build](gantry.png)
+![Gantry Build](ASSETS/gantry.png)
 
 ### Z-Axis Assembly
 
-![Z-Axis](Zaxis.png)
+![Z-Axis](ASSETS/Zaxis.png)
 
 ### Hotend and Extruder
 
-![Hotend Assembly](hotend.png)
+![Hotend Assembly](ASSETS/hotend.png)
 
 ### Full assembly
 
-![whole thing](<3dprinter v21.png>)
+![whole thing](ASSETS/3dprinter%20v21.png)
 
----
+### Wiring Diagram
+
+## ![thing]()
 
 ## BOM
 

@@ -22,8 +22,8 @@ Key design considerations:
 ## Day 2 – Frame Assembly (June 30th)
 
 Started building the **frame using 2020 aluminum extrusion**, with a total cage size of **470 by 300 mm**. This forms the main structural base for the printer.
-I also looked at some options for an enclosure so that I may be able to print in other filaments that do require an enclosure but I think thats just out of scope for now<br>
-![alt text](image-1.png)
+I also looked at some options for an enclosure so that I may be able to print in other filaments that do require an enclosure but I think thats just out of scope for now<br>  
+![alt text](ASSETS/image-1.png)
 
 **Time Spent:** 3h
 
@@ -37,7 +37,7 @@ Returned to the project after a short break and made major progress:
 - Increased printer height by **30 mm** for more build volume.
 - Completed most of the **gantry assembly**, using **NEMA 17 motors**, **MGN12 linear rails**, and a **belt-driven motion system** for now.
 
-![alt text](image-2.png)
+![alt text](ASSETS/image-2.png)
 
 **Time Spent:** 10h
 
@@ -51,8 +51,8 @@ Focused on the **Z-axis assembly** today and added some **quality-of-life improv
 - Planned to use a **220x220 mm heated bed** ([link](https://novo3d.in/3d-printer-heatbed-220x220mm/)).
 - Built on **mgn-12 and mgn9linear rails with timing belt-driven carriages** for smooth and stable vertical motion.
 
-![alt text](image.png)  
-![alt text](image-3.png)
+![alt text](ASSETS/image.png)  
+![alt text](ASSETS/image-3.png)
 
 **Time Spent:** 12h
 
@@ -67,7 +67,7 @@ I would like to disclose that YES, I am using their base 3D model for my toolhea
 - Planning to use a **Bambu X1** hotend for easy availibility in india and cheap cost.
 - Extruder will be an **LDO Orbiter** for high precision and lightweight direct drive.
 
-![alt text](<3dprinter v17.png>)
+![alt text](ASSETS/3dprinter%20v17.png)
 
 **Time Spent:** 7h
 
@@ -76,10 +76,10 @@ I would like to disclose that YES, I am using their base 3D model for my toolhea
 ## Day 6 and 7 - Requested fixes and updates to readme(Aug 6-7)
 
 Changed the Z axis to have 3 steppers as per feedback(same assembly)<br>
-![zaxis](Zaxis.png)
+![zaxis](ASSETS/Zaxis.png)
 Additionally, added some brackets that were missing<br>
 Added the back electronics stuff(PSU, raspi, BTT mobo)<br>
 Changed some suppliers around in the BOM and changed out the mobo and added some stuff I forgot(also removed the BLtouch, will get later)
-![backthing](backthing.png)
+![backthing](ASSETS/backthing.png)
 And worked on updating the README and Journal!!<br>
 **Time Spent:** 3h
