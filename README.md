@@ -69,6 +69,8 @@ SKR 3 mobo for this printer(cheap + high quality + tmc2209 compatible)
 
 ### Wiring Diagram
 
+![diagram](ASSETS/diagram.png)
+
 ## ![thing]()
 
 ## BOM
