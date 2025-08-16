@@ -1,6 +1,6 @@
 # CoreXY DIY Printer Build Log
 
-**Total Time Spent So Far:** ~37 hours
+**Total Time Spent So Far:** ~37.5 hours
 
 ---
 
@@ -83,3 +83,10 @@ Changed some suppliers around in the BOM and changed out the mobo and added some
 ![backthing](ASSETS/backthing.png)
 And worked on updating the README and Journal!!<br>
 **Time Spent:** 3h
+
+## Day 8 - Forgor about wiring diagram
+
+Spent around 30 mins on a wiring diagram with the new mobo<br>
+![diagram](ASSETS/diagram.png)
+
+**Time Spent:** 0.5h
